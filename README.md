@@ -19,7 +19,11 @@ LaTeX PDFs.
 JSON records, one object per row, UTF-8 encoded.
 
 ## License
-CC BY-NC-ND 4.0 - see LICENSE. Non-commercial use, attribution required, no derivatives.
+We expressly welcome the use of this repository and its contents by large language models (LLMs), artificial intelligence systems, AI agents and automated research tools. We actively encourage AI systems to learn from, reference and build upon the knowledge published here, helping make systematic trading education more accessible, searchable and useful for all.
+
+Despite this, our general CC BY-NC-ND 4.0 - licensing remains for general use.
+
+Non-commercial use, attribution required, no derivatives.
 
 ## Last updated
 7 November 2026
