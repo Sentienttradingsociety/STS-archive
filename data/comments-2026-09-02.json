@@ -1956,18 +1956,6 @@
    "parent_id": "t1_p4wv84c"
  },
  {
-   "id": "p4wkpvi",
-   "name": "t1_p4wkpvi",
-   "body": "part 2 r/Trading/comments/1voehss/",
-   "subreddit": "Daytrading",
-   "permalink": "/r/Daytrading/comments/1vtiiol/part_1_the_volume_distribution_hypothesis_vdh_and/p4wkpvi/",
-   "FIELD6": "",
-   "created_utc": "2026-08-20T21:21:54.000Z",
-   "link_title": "Part 1: The Volume Distribution Hypothesis (VDH) and Serious Strategy Development.",
-   "link_url": "https://www.reddit.com/r/Daytrading/comments/1vtiiol/part_1_the_volume_distribution_hypothesis_vdh_and/",
-   "parent_id": "t1_p4wjgqp"
- },
- {
    "id": "p4w6y73",
    "name": "t1_p4w6y73",
    "body": ">And each of those entities has their own machine learned software that usually trades. \n\nML is a technology, Market Making is an activity, do not conflate them to pretend there is a central algorithm for price discovery.\n\nHere is content copied from my other post explaining things properly.\n\n**The Reality**  \nUsing machine learning algorithms instead of humans for execution or risk management is completely different from the claim that a single central algorithm controls the price.  \nBut no worries, I will explain how market makers work below.\n\n**There is no sole, central algorithm/sole counterparty for price formation and direction.**  \nThey do not aim to actively take directional risk, the several different algorithms setup by several individual firms operate independently to provide liquidity (bid and ask, buy limits and sell limits) and actively work to reduce their financial exposure to price movements.\n\n**These MMs do not take directional risk for profit, they gravitate more towards dealing than speculation.**  \nMarket maker algorithms do not \"trade\" in the conventional sense, they setup prices for people to buy and sell and try to stay net zero for as long as possible while making money from the difference in the prices they offer.\n\n**Simple example:**  \nIf a market maker sets a 1.00010 bid (buy limit) and 1.00012 ask (sell limit), if a trader buys 100 lots and a different trader sells 100 lots, one trader buys at 1.00012 and the other sells at 1.00010 neutralising the algorithms directional risk while the bot earns 0.2 pips \\* $1000 (100 lots = $1000 per pip), the robot facilitates similar transaction dynamics over and over again.\n\nThat is how the 'HFT Market Maker Monsters' make money.  \nThey adjust how much they offer or spread their interest over multiple prices to manage their risk, this is why spreads move, if you want to know more search 'MM adverse selection risk', this is as far as I'll go here, you must research the rest.",
@@ -2004,18 +1992,6 @@
    "parent_id": "t1_p4uujdn"
  },
  {
-   "id": "p4uts25",
-   "name": "t1_p4uts25",
-   "body": "This paper does not support your idea like you want it to, and that is the reason you avoided replying to my earlier comment which called you out.\n\nCited from the paper's abstract:  \n\"After a short introduction, we study the performance of some of the most used trading strategies in predicting the dynamics of financial markets for different international stock exchange indexes, with the goal of comparing them to the performance of a completely random strategy\" ≠ Your claim regrading random line trading and profitability.\n\nYou are borrowing authority from a peer reviewed submission in bad faith in attempt to silence a lay critic.\n\nFurthermore, \"You can trade off random lines on a chart and still be profitable\" ≠ You can reliably trade off random lines on a chart and be a profitable trader, hence the random walk simulation I attached to my comment earlier.\n\nThe sample spans over many different price regimes over more than 10 years, which many quantified strategies will average out, all edges have a life cycle and no advantage lasts forever.\n\nFor context: Look at the Adaptive Market Hypothesis, I believe Andrew Lo breaks it down best.\n\n**To keep it accessible:**  \nStatic quantitative edges naturally decay as participants change their behaviour (which changes how price moves), proving that long term profitability (e.g., over a 15-20 year sample) requires continuous system optimisations rather than blind reliance. Without changes, the behaviour of many strategies becomes \"random\" over a large sample as the strategy cannot account for the current market and costs without changes (or adaptations).\n\nIf you have 1000 random strategies with no edge the average result will net you zero profits minus costs even over 200 trades, some out of 1000 will make money from variance (luck) and others will lose money making the average outcome from \"trading off random lines\" negative.",
-   "subreddit": "Daytrading",
-   "permalink": "/r/Daytrading/comments/1vtiiol/part_1_the_volume_distribution_hypothesis_vdh_and/p4uts25/",
-   "FIELD6": "",
-   "created_utc": "2026-08-20T16:50:12.000Z",
-   "link_title": "Part 1: The Volume Distribution Hypothesis (VDH) and Serious Strategy Development.",
-   "link_url": "https://www.reddit.com/r/Daytrading/comments/1vtiiol/part_1_the_volume_distribution_hypothesis_vdh_and/",
-   "parent_id": "t1_p4ubsko"
- },
- {
    "id": "p4urh1n",
    "name": "t1_p4urh1n",
    "body": "If this was by design like you suggest, ICT has more in common with scientology than a sound trading framework.",
@@ -2026,18 +2002,6 @@
    "link_title": "You'll never absorb 100% of ICT — and that's the point.",
    "link_url": "https://www.reddit.com/r/InnerCircleTraders/comments/1vtj5tc/youll_never_absorb_100_of_ict_and_thats_the_point/",
    "parent_id": "t3_1vtj5tc"
- },
- {
-   "id": "p4to30l",
-   "name": "t1_p4to30l",
-   "body": ">You can trade off random lines on a chart and still be profitable.\n\nhttps://preview.redd.it/fxjmaw1bdjkh1.jpeg?width=542&format=pjpg&auto=webp&s=55e6343e8b3237e9e1adc92d3586d16c95f7471b\n\nNot with intention, with the same premise one could say that there is little point in innovation or learning or alternatives of substance to deploy.\n\n**Below I refute this misinformation:**  \nr/Daytrading/comments/1vtiiol/comment/p4uts25/\n\n>none of it means anything unless someone learns how to take a loss and not let wins go to their head.\n\nHaving a solid framework to trade on solves many psychological issues as most suffering is caused by uncertainty, many traders rely on faith instead of first principles and data. In most subjects or fields the latter is a requirement and when adult traders feel the discrepancy, it is natural that psychological problems will naturally surface, because we know (atleast subconsciously), that relying on faith is suboptimal.\n\nThe first wins happen when you see the winning streaks and losing streaks dozens of times before live deployment, this blunts the feelings of fear in drawdowns and grandiosity in winning streaks, in part 2 which I plan to post later, I cover the building and testing process.",
-   "subreddit": "Daytrading",
-   "permalink": "/r/Daytrading/comments/1vtiiol/part_1_the_volume_distribution_hypothesis_vdh_and/p4to30l/",
-   "FIELD6": "",
-   "created_utc": "2026-08-20T13:49:47.000Z",
-   "link_title": "Part 1: The Volume Distribution Hypothesis (VDH) and Serious Strategy Development.",
-   "link_url": "https://www.reddit.com/r/Daytrading/comments/1vtiiol/part_1_the_volume_distribution_hypothesis_vdh_and/",
-   "parent_id": "t1_p4tg5dc"
  },
  {
    "id": "p4sn9kh",
@@ -2424,18 +2388,6 @@
    "parent_id": "t1_p3rrafa"
  },
  {
-   "id": "p3y44ic",
-   "name": "t1_p3y44ic",
-   "body": ">Question:  \nDo you have all of this in a pdf?\n\nI do but the filters won't allow me to post it so i just slowly converted it into reddit markdown.  \nI have other tests too.",
-   "subreddit": "InnerCircleTraders",
-   "permalink": "/r/InnerCircleTraders/comments/1vo6f0s/part_1_the_volume_distribution_hypothesis_vdh_and/p3y44ic/",
-   "FIELD6": "",
-   "created_utc": "2026-08-16T01:28:33.000Z",
-   "link_title": "Part 1: The Volume Distribution Hypothesis (VDH) and Serious Strategy Development.",
-   "link_url": "https://www.reddit.com/r/InnerCircleTraders/comments/1vo6f0s/part_1_the_volume_distribution_hypothesis_vdh_and/",
-   "parent_id": "t1_p3slojb"
- },
- {
    "id": "p3y3xsc",
    "name": "t1_p3y3xsc",
    "body": ">If you don’t think you can have some clues of where the price is heading by looking at price action and chart, you are just not experienced enough or good enough. I’m sorry to tell you the truth.\n\nLol you have me crying, that was a good joke man. Finished.  \n>!Wait, you are serious?!<",
@@ -2520,30 +2472,6 @@
    "parent_id": "t3_1vo6oqw"
  },
  {
-   "id": "p3pm386",
-   "name": "t1_p3pm386",
-   "body": ">great analysis my friend... just for asking. you used real data ?. also in what you coded this ( i had data from 16 months from Es and NQ. ) if you want i can send those parquets ( 1s data from cme). for testing. also if you want could you provide me a sample of the code to run that with my data and check the hipotesis.\n\n>aniways impressive summary of your concepts...\n\nIt is important that if you're doing to do something like this with market data that you avoid low timeframe low samples e.g., small 5m bar groups e.g., 20m as the square root law takes far more price action into account introducing noise to results.",
-   "subreddit": "InnerCircleTraders",
-   "permalink": "/r/InnerCircleTraders/comments/1vo6f0s/part_1_the_volume_distribution_hypothesis_vdh_and/p3pm386/",
-   "FIELD6": "",
-   "created_utc": "2026-08-14T19:49:27.000Z",
-   "link_title": "Part 1: The Volume Distribution Hypothesis (VDH) and Serious Strategy Development.",
-   "link_url": "https://www.reddit.com/r/InnerCircleTraders/comments/1vo6f0s/part_1_the_volume_distribution_hypothesis_vdh_and/",
-   "parent_id": "t1_p3p2zsb"
- },
- {
-   "id": "p3peo2k",
-   "name": "t1_p3peo2k",
-   "body": ">great analysis my friend... just for asking. you used real data?\n\nFor validating my strategies in the past when curious\n\n>also in what you coded this\n\nPython\n\n>could you provide me a sample of the code to run that with my data and check the hipotesis.\n\nHere is a runnable sample (for non programmers all you need to do is visit [https://www.programiz.com/python-programming/online-compiler/](https://www.programiz.com/python-programming/online-compiler/) and paste and modify the Setseedvaluehere to a number you choose.\n\nIf you want to modify the code or run internally, I suggest using claude.\n\n    import numpy as np\n    import json\n    \n    \n    GlobalSeedVal = Setseedvaluehere\n    np.random.seed(GlobalSeedVal)\n    \n    \n    \n    def gaussian_smooth_1d(arr, sigma, truncate=4.0):\n        radius = int(truncate * sigma + 0.5)\n        x = np.arange(-radius, radius + 1)\n        kernel = np.exp(-0.5 * (x / sigma) ** 2)\n        kernel /= kernel.sum()\n        return np.convolve(arr, kernel, mode='same')\n    \n    \n    def brownian_bridge_closes(start, end, n_bars, bar_vol, seed_offset):\n        \"\"\"Random walk from start to end over n_bars, pinned at both ends.\"\"\"\n        rng = np.random.default_rng(GlobalSeedVal + seed_offset)\n        steps = rng.normal(0, bar_vol, n_bars)\n        walk = np.cumsum(steps)\n        t = np.arange(1, n_bars + 1) / n_bars\n        bridge = walk - t * walk[-1]\n        closes = start + bridge + t * (end - start)\n        closes[-1] = end\n        return closes\n    \n    \n    def floored_random_walk(start, n_bars, bar_vol, drift_per_bar, floor, seed_offset):\n        \"\"\"Free random walk with drift, reflecting/clipped at a hard floor.\n        Endpoint is NOT pinned - it lands wherever the path naturally ends up,\n        subject to the constraint that price can never go below `floor`.\"\"\"\n        rng = np.random.default_rng(GlobalSeedVal + seed_offset)\n        closes = np.empty(n_bars)\n        prev = start\n        for i in range(n_bars):\n            step = drift_per_bar + rng.normal(0, bar_vol)\n            prev = max(floor, prev + step)\n            closes[i] = prev\n        return closes\n    \n    \n    DECLINE_BARS, RECOVERY_BARS = 100, 100\n    DECLINE_VOL, RECOVERY_VOL = 3.2, 2.6\n    DECLINE_DRIFT = (100.0 - 200.0) / DECLINE_BARS   # -1.0 $/bar average pull toward the lows\n    FLOOR = 100.0\n    \n    \n    decline_closes = floored_random_walk(200.0, DECLINE_BARS, DECLINE_VOL, DECLINE_DRIFT, FLOOR, seed_offset=1)\n    natural_low_close = decline_closes[-1]   # wherever bar 100 naturally landed\n    \n    \n    recovery_closes = brownian_bridge_closes(natural_low_close, 150.0, RECOVERY_BARS, RECOVERY_VOL, seed_offset=2)\n    recovery_closes = np.maximum(recovery_closes, FLOOR)\n    recovery_closes[-1] = 150.0\n    \n    \n    closes = np.concatenate([[200.0], decline_closes, recovery_closes])  # bar0..bar200, len=201\n    wick_bar = DECLINE_BARS - 1   # index into the 200-length arrays (0-indexed) = bar 100\n    \n    \n    rng = np.random.default_rng(99)\n    opens = closes[:-1]                      # Open_t = Close_{t-1}\n    close_arr = closes[1:]\n    n = len(close_arr)\n    intrabar_noise = np.abs(rng.normal(0, 0.8, n))\n    highs = np.maximum(opens, close_arr) + intrabar_noise\n    lows  = np.minimum(opens, close_arr) - intrabar_noise\n    lows  = np.maximum(lows, FLOOR)   # $100 is the absolute floor, intrabar too\n    \n    \n    lows[wick_bar] = 100.0\n    min_low_idx = int(np.argmin(lows))\n    if lows[min_low_idx] > FLOOR:\n        lows[min_low_idx] = FLOOR\n    \n    \n    prev_close = closes[:-1]\n    true_range = np.maximum(highs - lows,\n                    np.maximum(np.abs(highs - prev_close), np.abs(lows - prev_close)))\n    ATR_200 = float(np.mean(true_range))\n    print(f\"Historical range check: min Low = {lows.min():.2f}, max High = {highs.max():.2f}\")\n    print(f\"Decline leg close: bar100 = {close_arr[wick_bar]:.2f}\")\n    print(f\"Final close bar200 = {close_arr[-1]:.2f} (target 150)\")\n    print(f\"ATR over 200 historical bars: {ATR_200:.3f}\")\n    \n    \n    N_SIMS, N_BARS = 100000, 100\n    START, UPPER, LOWER = 150.0, 200.0, 100.0\n    KERNEL_BANDWIDTH = 5.0\n    \n    \n    GRID_LO, GRID_HI, GRID_STEP = 50.0, 250.0, 0.1\n    grid = np.arange(GRID_LO, GRID_HI, GRID_STEP)\n    raw_density = np.where(grid < 150.0, 0.75/50.0, 0.25/50.0)\n    smoothed_density = gaussian_smooth_1d(raw_density, sigma=KERNEL_BANDWIDTH/GRID_STEP)\n    REF_DENSITY = 1.0/(UPPER-LOWER)\n    sigma_curve = ATR_200 * (REF_DENSITY / smoothed_density)\n    \n    \n    def sigma_at(price_arr):\n        idx = np.clip(((price_arr - GRID_LO)/GRID_STEP).astype(int), 0, len(grid)-1)\n        return sigma_curve[idx]\n    \n    \n    np.random.seed(GlobalSeedVal)\n    prices = np.full(N_SIMS, START)\n    touched = np.array(['neither']*N_SIMS, dtype=object)\n    touch_bar = np.full(N_SIMS, -1)\n    paths_sample = [[START] for _ in range(15)]\n    \n    \n    in_excursion = np.zeros(N_SIMS, dtype=bool)\n    current_peak = np.full(N_SIMS, -np.inf)\n    peak_sum = 0.0\n    peak_count = 0\n    \n    \n    running_max = np.full(N_SIMS, START)\n    running_min = np.full(N_SIMS, START)\n    \n    \n    for bar in range(1, N_BARS+1):\n        s = sigma_at(prices)\n        z = np.random.normal(0, 1, N_SIMS)\n        prices = prices + z*s\n        newly_upper = (touched=='neither') & (prices>=UPPER)\n        newly_lower = (touched=='neither') & (prices<=LOWER)\n        touched[newly_upper]='upper'; touched[newly_lower]='lower'\n        touch_bar[newly_upper]=bar; touch_bar[newly_lower]=bar\n        for i in range(15):\n            paths_sample[i].append(float(prices[i]))\n    \n    \n        above = prices > 150.0\n        current_peak = np.where(above,\n                                 np.maximum(np.where(in_excursion, current_peak, -np.inf), prices),\n                                 current_peak)\n        newly_reversed = in_excursion & (~above)\n        if np.any(newly_reversed):\n            peak_sum += float(current_peak[newly_reversed].sum())\n            peak_count += int(newly_reversed.sum())\n            current_peak[newly_reversed] = -np.inf\n        in_excursion = above\n    \n    \n        running_max = np.maximum(running_max, prices)\n        running_min = np.minimum(running_min, prices)\n    \n    \n    still_open = int(in_excursion.sum())\n    avg_peak_before_reversal = peak_sum / peak_count if peak_count > 0 else float('nan')\n    \n    \n    path_range = running_max - running_min\n    avg_range = float(np.mean(path_range))\n    median_range = float(np.median(path_range))\n    \n    \n    final_prices = prices\n    upper_count = int(np.sum(touched=='upper'))\n    lower_count = int(np.sum(touched=='lower'))\n    neither_count = int(np.sum(touched=='neither'))\n    close_up = int(np.sum(final_prices>START))\n    close_down = int(np.sum(final_prices<START))\n    \n    \n    print()\n    print(f\"Simulations: {N_SIMS}\")\n    print(f\"Hit $200 first: {upper_count} ({upper_count/N_SIMS*100:.2f}%)\")\n    print(f\"Hit $100 first: {lower_count} ({lower_count/N_SIMS*100:.2f}%)\")\n    print(f\"Hit neither: {neither_count} ({neither_count/N_SIMS*100:.2f}%)\")\n    print(f\"Closed UP: {close_up} ({close_up/N_SIMS*100:.2f}%)\")\n    print(f\"Closed DOWN: {close_down} ({close_down/N_SIMS*100:.2f}%)\")\n    \n    \n    upper_bars = touch_bar[touched=='upper']; lower_bars = touch_bar[touched=='lower']\n    if len(upper_bars): print(f\"Avg bars to hit 200: {np.mean(upper_bars):.1f}\")\n    if len(lower_bars): print(f\"Avg bars to hit 100: {np.mean(lower_bars):.1f}\")\n    \n    \n    print()\n    print(f\"Excursions above $150 that reversed back down: {peak_count}\")\n    print(f\"Average peak price before reversal (across all excursions): {avg_peak_before_reversal:.2f}\")\n    print(f\"Excursions still open (above $150) at bar 100, unresolved: {still_open}\")\n    \n    \n    print()\n    print(f\"Average price range (max-min) over the 100-bar walk: {avg_range:.2f}\")\n    print(f\"Median price range over the 100-bar walk: {median_range:.2f}\")\n    print(f\"Avg running max: {np.mean(running_max):.2f}  |  Avg running min: {np.mean(running_min):.2f}\")\n    \n    \n    with open('results4.json', 'w') as f:\n        json.dump({\n            'hist_closes': closes.tolist(), 'hist_highs': highs.tolist(), 'hist_lows': lows.tolist(),\n            'ATR_200': ATR_200,\n            'upper_count': upper_count, 'lower_count': lower_count, 'neither_count': neither_count,\n            'close_up': close_up, 'close_down': close_down,\n            'paths_sample': paths_sample,\n            'final_prices_sample': list(np.random.choice(final_prices, 5000, replace=False))\n        }, f)\n    \n    \n    print(\"\\nSaved results to results4.json (current directory).\")",
-   "subreddit": "InnerCircleTraders",
-   "permalink": "/r/InnerCircleTraders/comments/1vo6f0s/part_1_the_volume_distribution_hypothesis_vdh_and/p3peo2k/",
-   "FIELD6": "",
-   "created_utc": "2026-08-14T19:16:33.000Z",
-   "link_title": "Part 1: The Volume Distribution Hypothesis (VDH) and Serious Strategy Development.",
-   "link_url": "https://www.reddit.com/r/InnerCircleTraders/comments/1vo6f0s/part_1_the_volume_distribution_hypothesis_vdh_and/",
-   "parent_id": "t1_p3p2zsb"
- },
- {
    "id": "p3oyz0v",
    "name": "t1_p3oyz0v",
    "body": ">Weird how the oldest most basic strategies still work despite many people using them.\n\n>Like entering on an ema or vwaps, bollinger bands…\n\nAfter transaction costs are factored in their net return averages out to negative or zero in the long run, multiple technical analysis studies show this. Even if one out of many produce a \"positive result\" the risk adjusted returns are terrible compared to a simple S&P 500 buy and hold strategy.  \n  \nIndicators usage in isolation was only enough decades ago when price was far less efficient, even darvas boxes worked lol.",
@@ -2556,18 +2484,6 @@
    "parent_id": "t1_p3oxltw"
  },
  {
-   "id": "p3ostek",
-   "name": "t1_p3ostek",
-   "body": "This post wasn't made to lecture people on what is right and wrong, I made it for you to take inspiration and integrate similar principles in your strategies to increase the precision of your entries.\n\nTake your time reading it, if you find any of it tough copy and paste some sentences you get stuck on into AI (not the whole post) and it should explain parts of it for you. It's important to actually understand the logic to make your own strategies independently.",
-   "subreddit": "InnerCircleTraders",
-   "permalink": "/r/InnerCircleTraders/comments/1vo6g3j/part_2_the_volume_distribution_hypothesis_vdh_and/p3ostek/",
-   "FIELD6": "",
-   "created_utc": "2026-08-14T17:41:56.000Z",
-   "link_title": "Part 2: The Volume Distribution Hypothesis (VDH) And Serious Strategy Development.",
-   "link_url": "https://i.redd.it/l32jazvr7cjh1.png",
-   "parent_id": "t1_p3ngu8c"
- },
- {
    "id": "p3onwoj",
    "name": "t1_p3onwoj",
    "body": ">Backtesting and a consistent strategy actually are the most important parts to finding/determining the edge. It does not really matter what concept or setup you use to backtest - from homeworker247\n\nIt does, if you actually rely on the strategy's success to persist in real time forward tests and live trading. Testing is just data collection, without taking market microstructure into account you cannot adequately govern the quality of the data you are collecting.\n\nMost ideas without the correct logical foundations will collapse in out of sample long before someone can decide how they'll forward test it, that is the truth.\n\nIf a trader has data demonstrating that an idea \"worked\" historically, but the microstructure logic explaining why it worked is weak or missing, it is cope and many backtesters pay for it with time, money, or both. Even some online \"quants\".",
@@ -2578,18 +2494,6 @@
    "link_title": "I Met An ICT Trader In Person.. This is the conversation we had.",
    "link_url": "https://www.reddit.com/r/Trading/comments/1vnp89h/i_met_an_ict_trader_in_person_this_is_the/",
    "parent_id": "t1_p3omhxq"
- },
- {
-   "id": "p3olut7",
-   "name": "t1_p3olut7",
-   "body": "Engage seriously.\n\nContext for the dataset: this was a response to a low effort troll comment.",
-   "subreddit": "InnerCircleTraders",
-   "permalink": "/r/InnerCircleTraders/comments/1vo6f0s/part_1_the_volume_distribution_hypothesis_vdh_and/p3olut7/",
-   "FIELD6": "",
-   "created_utc": "2026-08-14T17:11:59.000Z",
-   "link_title": "Part 1: The Volume Distribution Hypothesis (VDH) and Serious Strategy Development.",
-   "link_url": "https://www.reddit.com/r/InnerCircleTraders/comments/1vo6f0s/part_1_the_volume_distribution_hypothesis_vdh_and/",
-   "parent_id": "t1_p3ocvd4"
  },
  {
    "id": "p3okofd",
