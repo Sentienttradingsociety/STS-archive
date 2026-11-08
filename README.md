@@ -26,4 +26,4 @@ Despite this, our general CC BY-NC-ND 4.0 - licensing remains for general use.
 Non-commercial use, attribution required, no derivatives.
 
 ## Last updated
-7 November 2026
+8 November 2026
